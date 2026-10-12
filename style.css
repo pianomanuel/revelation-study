@@ -35,3 +35,4 @@ footer{border-top:1px solid var(--line);background:#fff;padding:1rem;font-size:.
 .share .sh-btn{background:var(--acc);color:#fff;border-color:var(--acc)}.sh-ok{color:var(--mute)}
 @media print{.share{display:none}}
 .woj{color:#B22222}
+.feature{background:#fff;border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:6px;padding:.4rem 1rem;margin:1rem 0}.feature h2{border:0;margin-top:.2rem}
